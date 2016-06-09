@@ -1,12 +1,12 @@
 ---
 layout: default
 modal-id: 1
-date: 2014-07-18
-img: cabin.png
+date: 2016-05-01
+img: canvs-first-anniversary.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!
+project-date: Sept 2015
+client: Canvs
+category: Illustration & Logo Design
+description: This was a logo illustration hybrid created for Canvs' first year anniversary celebration. The logo was printed on stickers, canvases, and other marketing collateral. The design was also encorporated into a web-invite, and a billboard. To create this illustration I used hand drawn elements that were compiled in Photoshop for the final design. 
 
 ---

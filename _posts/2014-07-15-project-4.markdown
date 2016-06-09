@@ -1,12 +1,12 @@
 ---
 layout: default
 modal-id: 4
-date: 2014-07-15
-img: game.png
+date: 2016-05-01
+img: wordcamp-map.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!
+project-date: October 2015
+client: WordCamp Orlando, David Laietta
+category: Illustration, Program Design
+description: This map was created for WordCamp Conference goers to find thier way around the Exchange Building First Floor, as well as refer to the back for program details. This map folds and design are inspired by the Maurader's map. The entire map was drawn and deisgned with specific detail to add to the magical theme. The illustration of the building matches that of the building attendees are in, The Exchange Building in downtown Orlando. The walls have written in them WordPress fuctions, and the fading steps are taken by WordCamp Organizers. This was a really fun project to work on. Check out this <a href="https://twitter.com/kdrewien/status/665166900976988161"> gif tweet from @kdrewien</a> of this map in action!
 
 ---
