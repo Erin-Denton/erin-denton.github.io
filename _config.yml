@@ -1,7 +1,7 @@
 # Site settings
 title: Erin Fonzi Denton
 email: erin.f.denton@gmail.com
-url: https://example.github.io
+url: http://www.erinfonzidenton.com
 description: "Erin Fonzi Denton is a Designer, Illustrator, and super cool creative person! "
 skills: "Designer - Illustrator - Power Level 9001"
 meta_author: Denton Erin
@@ -16,7 +16,7 @@ bing_verify:
 # - static : pass through formspree.io to validate email sending
 # - disqus : replace contact form by disqus thread
 # - comment the line below if you want to stick with the default PHP contact form
-# contact: static
+contact: static
 
 # If you use disqus you need disqus shortname
 # https://help.disqus.com/customer/portal/articles/466208
@@ -24,7 +24,7 @@ disqus_shortname: myshortname
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: DA2F50 #80B3FF
+  primary: DA2F50 #DA2F50
   primary-rgb: "24,288,156" #"128,179,255"
   secondary: 254852 #FD6E8A
   secondary-dark: 1C363D #A2122F
@@ -32,8 +32,8 @@ color:
 # Footer settings
 footer:
   copyright: Erin Fonzi Denton
-  location: Where the Sun don't stop shinin' 
-  social: Talk to me on the Interwebz
+  location: Orlando, Florida USA 
+  social: Social
   credits: Credits
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
@@ -48,10 +48,10 @@ social:
 # Postal address (add as many lines as necessary)
 address:
   - line: Serving the Orlando Area
-  - line: and the INTERNET :D
+  - line: and abroad. 
 
 # Credits content
-credits: 'Created using a <a href="http://www.jekyllrb.com"> Jekyll</a> powered theme <a href="https://github.com/BlackrockDigital/startbootstrap-freelancer">Freelancer</a> by <a href="http://www.startbootstrap.com">Start Bootstrap</a>.'
+credits: 'Created using a <a href="http://www.jekyllrb.com"> Jekyll</a> powered theme called <a href="https://github.com/BlackrockDigital/startbootstrap-freelancer">Freelancer</a> by <a href="http://www.startbootstrap.com">Start Bootstrap</a>. Hosted using <a href="http://pages.github.com">GitHub Pages.</a>'
 
 # Build settings
 markdown: kramdown
