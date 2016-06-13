@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: 4
-date: 2016-05-01
+date: 2015-10-01
 img: wordcamp-map.png
 alt: image-alt
 project-date: October 2015
