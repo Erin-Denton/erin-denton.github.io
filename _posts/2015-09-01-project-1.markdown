@@ -3,6 +3,7 @@ layout: default
 modal-id: 1
 date: 2015-09-01
 img: canvs-first-anniversary.png
+img-thumb: canvs-first-anniversary.png
 alt: image-alt
 project-date: Sept 2015
 client: Canvs

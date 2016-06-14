@@ -3,6 +3,7 @@ layout: default
 modal-id: 2
 date: 2016-01-01
 img: wordcamp-bar.png
+img-thumb: wordcamp-bar.png
 alt: image-alt
 project-date: January 2016
 client: David Bisset 

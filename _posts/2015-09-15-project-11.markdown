@@ -3,6 +3,7 @@ layout: default
 modal-id: 11
 date: 2015-09-15
 img: wildtracks.png
+img-thumb: wildtracks.png
 alt: image-alt
 project-date: Sept 2015
 client: Jared Woolston, WildTracks
