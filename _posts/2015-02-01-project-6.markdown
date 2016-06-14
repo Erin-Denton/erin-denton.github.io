@@ -3,6 +3,7 @@ layout: default
 modal-id: 6
 date: 2015-02-01
 img: gfwc.png
+img-thumb: gfwc.png
 alt: image-alt
 project-date: Febuary 2015
 client: Emerald Coast Juniors

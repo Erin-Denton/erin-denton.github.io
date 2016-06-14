@@ -3,6 +3,7 @@ layout: default
 modal-id: 5
 date: 2015-03-01
 img: space-apps.png
+img-thumb: space-apps.png
 alt: image-alt
 project-date: March 2015
 client: Space Apps Orlando

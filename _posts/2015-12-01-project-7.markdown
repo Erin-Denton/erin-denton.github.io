@@ -3,6 +3,7 @@ layout: default
 modal-id: 7
 date: 2015-12-01
 img: tarf.jpg
+img-thumb: tarf.jpg
 alt: image-alt
 project-date: December 2015
 client: PowerDMS
