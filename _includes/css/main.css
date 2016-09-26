@@ -33,7 +33,7 @@ h4,
 h5,
 h6 {
     text-transform: uppercase;
-    font-family:'Source Sans Pro', sans-serif;
+    font-family: 'Jaldi', sans-serif;
     font-weight: 700;
 }
 
@@ -64,10 +64,10 @@ hr.star-primary:after {
 }
 
 hr.star-light:after{
-    content: url(/img/pen.svg)
+    content: url(/img/pen-3.svg)
 }
 hr.star-primary:after {
-    content: url(/img/pen-2.svg)
+    content: url(/img/pen-4.svg)
 }
 
 hr.star-light {
@@ -98,11 +98,23 @@ hr.star-primary:after svg{
     margin: 0 auto;
 }
 
+.img-responsive-fix {
+    display: block;
+    max-width: 350px;
+    height: auto;
+}
+
+.img-responsive-fix-about {
+
+    padding: 40px;
+    height: auto;
+}
+
 header {
     text-align: center;
     color: #fff;
     background: #{{ site.color.primary }};
-    background-image: url(img/header-image-6.png);
+    background-image: url(img/background.svg);
 }
 
 header .container {
@@ -118,7 +130,7 @@ header img {
 header .intro-text .name {
     display: block;
     text-transform: uppercase;
-    font-family: 'Sorts Mill Goudy', serif;
+    font-family: 'Jaldi', sans-serif;
     font-size: 2em;
     font-weight: 700;
     letter-spacing: 5px;
@@ -127,14 +139,14 @@ header .intro-text .name {
 header .intro-text .skills {
     font-size: 1.50em;
     font-weight: 700;
-    text-transform: uppercase;
+   
     font-family:'Source Sans Pro', sans-serif;
 }
 
 @media(min-width:768px) {
     header .container {
-        padding-top: 200px;
-        padding-bottom: 100px;
+        padding-top: 150px;
+        padding-bottom: 50px;
     }
 
     header .intro-text .name {
@@ -172,7 +184,7 @@ header .intro-text .skills {
 
 .navbar {
     text-transform: uppercase;
-    font-family:'Source Sans Pro', sans-serif;
+    font-family: 'Jaldi', sans-serif;
     font-weight: 700;
 }
 
@@ -369,7 +381,7 @@ footer {
 
 footer h3 {
     margin-bottom: 30px;
-    font-family: 'Sorts Mill Goudy', serif;
+    font-family: 'Jaldi', sans-serif;
     letter-spacing: 2px;
 }
 
