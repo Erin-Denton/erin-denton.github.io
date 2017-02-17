@@ -2,7 +2,7 @@
 layout: default
 modal-id: 17
 date: 2016-09-01
-img: lakebuenavista.png
+img: LakeBuenaVista.png
 img-thumb: lakebuenavistathumb.png
 alt: image-alt
 project-date: September 2016
