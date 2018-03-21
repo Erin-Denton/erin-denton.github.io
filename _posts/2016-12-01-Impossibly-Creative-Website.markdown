@@ -3,7 +3,7 @@ layout: default
 modal-id: 19
 date: 2016-08-01
 img: impossiblycreative.png
-img-thumb: icthumb.png
+img-thumb: icthumb2.png
 alt: image-alt
 project-date: July 2016
 client: Adam Souice
