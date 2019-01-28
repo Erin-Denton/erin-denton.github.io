@@ -109,6 +109,10 @@ hr.star-primary:after svg{
     height: auto;
 }
 
+.box-shadow{
+    box-shadow: 0px 2px 20px 4px rgba(0, 0, 0, 0.1);
+}
+
 .img-responsive-fix-about {
 
     padding: 40px;

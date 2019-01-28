@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 26
+date: 2018-06-01
+img: wordcamp.png
+img-thumb: wordcamp-thumb.jpg
+alt: image-alt
+project-date: June 2018
+client: Wordcamp Orlando
+category: Brand Direction, Design, Conference Art Direction 
+description: I worked for the Wordcamp Orlando Conference leading design direction for the conference. I designed the logo, and helped manage a very small team to deliver other designs. Through a collaborative effort we delivered a theme for 2018, a website, swag and marketing materials, a booklet, shirt design, and badge designs. 
+---
